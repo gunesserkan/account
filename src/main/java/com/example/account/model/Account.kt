@@ -1,7 +1,6 @@
 package com.example.account.model
 
 import jakarta.persistence.*
-import org.hibernate.Transaction
 import org.hibernate.annotations.GenericGenerator
 import java.math.BigDecimal
 import java.time.LocalDateTime
